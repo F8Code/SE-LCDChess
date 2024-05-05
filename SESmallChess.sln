@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SESmallChess", "SESmallChess\SESmallChess.csproj", "{34D79FD2-340A-4974-9DDE-F9D334CE97F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D79FD2-340A-4974-9DDE-F9D334CE97F6}.Debug|x64.ActiveCfg = Debug|x64
+		{34D79FD2-340A-4974-9DDE-F9D334CE97F6}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09053297-EB80-47F7-A626-8AF24CF9CC48}
+	EndGlobalSection
+EndGlobal

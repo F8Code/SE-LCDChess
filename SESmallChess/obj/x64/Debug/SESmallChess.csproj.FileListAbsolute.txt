@@ -1,0 +1,4 @@
+C:\Users\hubgo\Desktop\SESmallChess\SESmallChess\obj\x64\Debug\SESmallChess.csproj.AssemblyReference.cache
+C:\Users\hubgo\Desktop\SESmallChess\SESmallChess\obj\x64\Debug\SESmallChess.csproj.SuggestedBindingRedirects.cache
+C:\Users\hubgo\Desktop\SESmallChess\SESmallChess\obj\x64\Debug\SESmallChess.exe.config
+C:\Users\hubgo\Desktop\SESmallChess\SESmallChess\obj\x64\Debug\SESmallChess.csproj.CoreCompileInputs.cache
